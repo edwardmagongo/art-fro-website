@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "539776558313",
+    "project_id": "artfro-scentric-studio",
+    "storage_bucket": "artfro-scentric-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539776558313:android:09a12f3095e8001214bc78",
+        "android_client_info": {
+          "package_name": "com.artfroscenticstudios.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539776558313-bqaj1pqrinar0ce138l6n6316hre0apf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artfroscenticstudios.app",
+            "certificate_hash": "acac639203f514f12fb71d2801c2ca6a103d34fb"
+          }
+        },
+        {
+          "client_id": "539776558313-o0somfmj3ru6acclg4gv44udeeehvg6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXIELWfqnRWr5oMnR6gVcL64Ww2w8CxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539776558313-o0somfmj3ru6acclg4gv44udeeehvg6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539776558313-jd2dv49r3i3r4g0ia27iasi7cd9o814b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.artfroscenticstudios.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
